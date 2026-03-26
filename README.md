@@ -8,7 +8,7 @@
 
 ### 👋 About Me
 
-- 🎓 Electronics & Communication Engineering student  
+- 🎓 Computer Engineering student  
 - 🧪 Digital IC Verification Engineer  
 - 💡 Constantly learning and exploring new technologies  
 - 💬 Experienced in **Verilog**, **SystemVerilog**, and **C++**  
