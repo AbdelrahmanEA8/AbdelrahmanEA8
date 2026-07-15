@@ -1,34 +1,28 @@
-<h2 align="center">Welcome to Abdelrahman Essam's GitHub</h2>
+<h1 align="center">Abdelrahman Essam</h1>
+<h3 align="center">ASIC / Digital IC Verification Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Digital+Verification+Engineer;Passionate+about+learning+and+innovation&center=true&width=500&height=40&font=Fira%20Code&color=f75c7e" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=SystemVerilog+%7C+UVM;Coverage-Driven+Verification;Robust+Testbench+Architecture&center=true&width=500&height=40&font=Fira%20Code&color=0077B5" alt="Verification Focus" />
 </p>
 
 ---
 
-### 👋 About Me
+### 👨‍💻 About Me
+- 🎓 **Computer Engineering Student** at Ain Shams university (Expected Graduation: 2027)
+- 🛠️ Focused on architecting robust testbenches and achieving coverage closure using **SystemVerilog** and **UVM**.
 
-- 🎓 Computer Engineering student  
-- 🧪 Digital IC Verification Engineer  
-- 💡 Constantly learning and exploring new technologies  
-- 💬 Experienced in **Verilog**, **SystemVerilog**, and **UVM**  
-- ☕ Coffee fuels my productivity  
-
----
+### 🧰 Core Competencies
+- **Languages:** SystemVerilog, Verilog, [C/C++, Python, Bash/Tcl]
+- **Methodologies:** UVM, Constrained Random Testing, Coverage-Driven Verification (CDV)
 
 ### 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Essam-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-essam-3b015124b)  
-[![Telegram](https://img.shields.io/badge/Telegram-Abdelrahman%20Essam-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/abdelrahmanEA8)
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdelrahman-essam-3b015124b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/abdelrahmanEA8"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:abdelruhmanessam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
-
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdelrahman-essam-3b015124b)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/abdelrahmanEA8)
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrahmanEA8&layout=compact&theme=default)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrahmanEA8&layout=compact&theme=default" alt="Top Languages" height="165" />
+</p>
