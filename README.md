@@ -11,7 +11,7 @@
 - 🎓 Computer Engineering student  
 - 🧪 Digital IC Verification Engineer  
 - 💡 Constantly learning and exploring new technologies  
-- 💬 Experienced in **Verilog**, **SystemVerilog**, and **C++**  
+- 💬 Experienced in **Verilog**, **SystemVerilog**, and **UVM**  
 - ☕ Coffee fuels my productivity  
 
 ---
